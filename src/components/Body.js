@@ -1,4 +1,4 @@
-import activities from './activities.png'
+import activities from '../images/activities.png'
 
 function Body() {
     return (
